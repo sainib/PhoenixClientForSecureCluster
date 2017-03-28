@@ -5,8 +5,8 @@
 ## Flow Summary
 
 * The java class is configured to 
- * have the hbase-site.xml, core-site.xml & hdfs-site.xml in classpath 
- * read a property file for jdbc url, query and name of the column to read
+ - have the hbase-site.xml, core-site.xml & hdfs-site.xml in classpath 
+ - read a property file for jdbc url, query and name of the column to read
 * hbase-site.xml, core-site.xml & hdfs-site.xml tell the program to use KERBEROS auth instead of SIMPLE
 
 * JDBC url tells program the keytab and principal to use for KERBEROS auth
