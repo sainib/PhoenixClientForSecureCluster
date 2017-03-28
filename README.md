@@ -41,13 +41,13 @@ Setup tested on HDP2.5.3
 		
 ## Building 
 	. Execute following command from the project root directory 
-	```
+	----
 		build.sh
-	```
+	----
 
 # Running
 	. Execute following command from the project root directory 
-	```
+	----
 		run.sh
-	```
+	----
 		
